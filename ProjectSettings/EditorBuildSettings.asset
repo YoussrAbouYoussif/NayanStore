@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menue.unity
+    guid: d32b8f77003514462b6de6c7dd6d2f4f
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GuitarScene.unity
+    guid: 51937a6147e6f6347b743263739a1fc6
+  - enabled: 1
+    path: Assets/Scenes/ElectricGuitarScene.unity
+    guid: 534778b163f8d64489f00e3807dfe334
+  - enabled: 1
+    path: Assets/Scenes/Dancing.unity
+    guid: d584eac6aa7fe7d4bb1f306711f72448
+  - enabled: 1
+    path: Assets/Scenes/Piano.unity
+    guid: 4d5cc7d556a0aa44cba9efa11f48ec50
+  - enabled: 1
+    path: Assets/Scenes/PlayingDrums.unity
+    guid: e9594a731644b364799513dceeca5479
+  - enabled: 1
+    path: Assets/Scenes/Singing.unity
+    guid: d35432fcc550deb40bf5956ff47442c8
+  - enabled: 1
+    path: Assets/Scenes/Violin.unity
+    guid: 860be8f87af789145a5e5140f7e43ad7
+  - enabled: 1
+    path: Assets/Scenes/Flute.unity
+    guid: d6d26a29fe9d3fa48b5ad848112aae85
+  m_configObjects: {}

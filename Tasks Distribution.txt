@@ -1,0 +1,43 @@
+Youssr Abou-Youssif's Tasks:
+1) Drums Scene:
+	-3D Models: Player and Drumset.
+	-Animations for the scene.
+2) Speakers Scene:
+	-3D Models: Player and Speaker.
+	-Animations for the scene.
+
+Nada Labib's Tasks:
+1) Guitar Scene:
+	-3D Models: Player and Guitar.
+	-Animations for the scene.
+2) Electric Guitar Scene:
+	-3D Models: Player and Electric Guitar.
+	-Animations for the scene.
+	
+
+Abdelrahman Badr's Tasks:
+1) Welcoming Scene:
+	-3D Models: Chair and the Room.
+	-Animations: Merchant animation.
+2) Enviroment Scene:
+	-3D Models: Enviroment.
+
+
+
+Nadine Moustafa's Tasks:
+1) Piano Scene:
+	-3D Models: Player and piano.
+	-Animations for the scene.
+2) Mic Scene:
+	-3D Models: Singer and Mic.
+	-Animations for the scene.
+	
+	
+Ahmed Mohamed's Tasks:
+1) Flute Scene:
+	-3D Models: Player and Flute.
+	-Animations for the scene.
+2) Violin Scene:
+	-3D Models: Player and Violin.
+	-Animations for the scene.
+
